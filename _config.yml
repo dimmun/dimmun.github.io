@@ -91,6 +91,7 @@ author:
   location         : "CA, USA"
   employer         : "University of California, Berkeley"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "http://orcid.org/0000-0001-6711-1272"
   googlescholar    : "https://scholar.google.com/citations?user=a9CQm1EAAAAJ&hl=ru&oi=ao"
   email            : "vmunirov@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -108,7 +109,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-6711-1272"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
