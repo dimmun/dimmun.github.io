@@ -8,8 +8,9 @@ header:
 ---
 My research is here.
 
-<!-- <nbsp>
+{% include base_path %}
 
+<!-- <nbsp>
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
