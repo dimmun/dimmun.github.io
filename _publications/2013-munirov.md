@@ -1,4 +1,3 @@
-
 ---
 title: "Interaction of two dielectric macroparticles"
 collection: publications
