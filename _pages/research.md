@@ -6,9 +6,9 @@ author_profile: true
 header:
  # og_image: "research/ecdf.png"
 ---
-My research here.
+My research is here.
 
-<nbsp>
+<!-- <nbsp>
 
 {% include base_path %}
 
@@ -17,3 +17,4 @@ My research here.
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
 {% endfor %}
+ -->
