@@ -61,7 +61,7 @@
       {% endif %}
       <br>
       {% if post.link %}
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+        <a href="{{ post.link }}"><i class="ai ai-doi zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
@@ -73,7 +73,7 @@
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.preprint %}
-        <a href="{{ post.preprint }}"><i class="ai ai-arxiv zoom"></i></a>                                     
+        <a href="{{ post.preprint }}"><i class="ai ai-arxiv zoom" aria-hidden="true"></i></a>                                     
       {% endif %}
       </p>
     {% elsif post.collection == 'posts' and post.date %}
