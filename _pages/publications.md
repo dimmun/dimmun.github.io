@@ -25,10 +25,6 @@ Publications
 
 Other
 ======
-<ul>{% for post in site.theses reversed %}
-  {% include archive-single.html %}
-{% endfor %}</ul>
-
 ### [Master thesis: Investigation of Interaction of Nonuniformly Charged Macroparticles](https://dimmun.github.io/files/pdf/Munirov2013_dip_master_A4.pdf)
  <b>Vadim R. Munirov</b>, <i>Investigation of Interaction of Nonuniformly Charged Macroparticles</i>, Master thesis, Moscow Institute of Physics and Technology (2013)
 [pdf](https://dimmun.github.io/files/pdf/Munirov2013_dip_master_A4.pdf)
