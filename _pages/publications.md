@@ -22,8 +22,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-{% include base_path %}
+
 Other
 ======
- <b>V.R. Munirov</b>, <i>Investigation of the interaction of non-uniformly charged macroparticles</i>, Master's thesis, Moscow Institute of Physics and Technology (2013)
-[pdf]('/files/pdf/Munirov2013_dip_master_A4.pdf')
+
+### Master thesis: Investigation of Interaction of Nonuniformly Charged Macroparticles
+ <b>Vadim R. Munirov</b>, <i>Investigation of Interaction of Nonuniformly Charged Macroparticles</i>, Master thesis, Moscow Institute of Physics and Technology (2013)
+[pdf]('https://dimmun.github.io/files/pdf/Munirov2013_dip_master_A4.pdf')
+
+### Ph.D. thesis: Radiative Processes in Astrophysical and Laboratory Plasmas
+ <b>Vadim R. Munirov</b>, <i>Radiative Processes in Astrophysical and Laboratory Plasmas</i>, Ph.D. thesis, Princeton University (2020)
+[url]('http://arks.princeton.edu/ark:/88435/dsp01t722hc861')
+
