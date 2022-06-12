@@ -6,5 +6,5 @@ date: 2013-12-17
 venue: 'Journal of Experimental and Theoretical Physics'
 paperurl: '/files/pdf/Munirov2013.pdf'
 link: 'http://dx.doi.org/10.1134/S1063776113130050'
-citation: <b>V.R. Munirov</b>, A.V. Filippov, <i>Interaction of two dielectric macroparticles</i>,  J. Exp. Theor. Phys., 117 (5), 809-819 (2013)
+citation: <b>V.R. Munirov</b>, A.V. Filippov, <i>Interaction of two dielectric macroparticles</i>,  J. Exp. Theor. Phys., 117, 809-819 (2013)
 ---
