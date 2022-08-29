@@ -87,8 +87,8 @@ analytics:
 author:
   name             : "Vadim Munirov"
   avatar           : "profile2.jpg"
-  bio              : "Theoretical physicists"
-  location         : "CA, USA"
+  bio              : "Theoretical physicist"
+  location         : #"CA, USA"
   employer         : "University of California, Berkeley"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   orcid            : "http://orcid.org/0000-0001-6711-1272"
