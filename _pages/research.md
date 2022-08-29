@@ -10,4 +10,6 @@ header:
 
 In the news: [Physics Magazine](https://physics.aps.org/articles/v15/s71)
 
+![](/images/animation_crystal.mp4)
+
 
