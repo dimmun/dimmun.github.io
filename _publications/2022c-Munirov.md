@@ -1,5 +1,5 @@
 ---
-title: "Influence of turbulence on Lyman-alpha scatterings"
+title: "Influence of turbulence on Lyman-alpha scattering"
 collection: publications
 permalink: /publication/2022b-munirov
 date: 2022-08-27
