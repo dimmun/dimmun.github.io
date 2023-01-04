@@ -1,5 +1,5 @@
 ---
-title: "Influence of turbulence on Lyman-alpha scattering"
+title: "Sensitivity of synchrotron radiation to the superthermal electron population in mildly relativistic plasma"
 collection: publications
 permalink: /publication/2022-mlodikmunirov
 date: 2022-12-28
