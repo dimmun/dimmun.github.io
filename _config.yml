@@ -89,7 +89,7 @@ author:
   avatar           : "profile2.jpg"
   bio              : "Quantitative Strategist"
   location         : "London, United Kingdom"
-  employer         : "Capula Investment Management"
+  employer         : #"Capula Investment Management"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   orcid            : "http://orcid.org/0000-0001-6711-1272"
   googlescholar    : "https://scholar.google.com/citations?user=a9CQm1EAAAAJ&hl=ru&oi=ao"
@@ -107,8 +107,8 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "https://www.linkedin.com/in/vadim-munirov"
-  linkedin         :
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/vadim-munirov"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
