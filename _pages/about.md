@@ -10,6 +10,6 @@ redirect_from:
 
 Welcome! I am a quantitative strategist at Capula Investment Management, where I use my mathematical modelling skills to help make better trading and investment decisions.
 My background is in theoretical and computational plasma physics.
-I received my Ph.D. in Astrophysical Sciences (Program in Plasma Physics) from Princeton University in 2020. There I was working with Professor [Nathaniel J. Fisch](https://plasma.princeton.edu/people/nathaniel-j-fisch) and defended my dissertation titled "Radiative Processes in Astrophysical and Laboratory Plasmas".
-I was a postdoctoral scholar at University of California, Berkeley working in [Jonathan Wurtele's](https://physics.berkeley.edu/people/faculty/jonathan-wurtele) research group and a visiting researcher at [Nathaniel J. Fisch's](https://plasma.princeton.edu/people/nathaniel-j-fisch) research group.
+I received my Ph.D. in Astrophysical Sciences (Program in Plasma Physics) from Princeton University in 2020. During my time there, I was working with Professor [Nathaniel J. Fisch](https://plasma.princeton.edu/people/nathaniel-j-fisch) and defended my dissertation titled "Radiative Processes in Astrophysical and Laboratory Plasmas".
+I was a postdoctoral scholar at University of California, Berkeley working in [Jonathan Wurtele's](https://physics.berkeley.edu/people/faculty/jonathan-wurtele) research group. I also spent some time as a visiting researcher in [Nathaniel J. Fisch's](https://plasma.princeton.edu/people/nathaniel-j-fisch) research group working on economical proton-boron11 fusion.
 I hold B.Sc. and M.Sc. from the leading Russian technical university Moscow Institute of Physics and Technology (MIPT).
